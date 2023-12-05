@@ -1,7 +1,3 @@
----
-title: My custom title
----
-
 # About me
 My name is George Louthan; I’m a maker, hacker, computer geek, and IT ops enthusiast. I currently lead an awesome team of cloud security engineers at AppDynamics, part of Cisco. Previously I worked in high performance computing, helping found Tulsa's (sadly now-defunct) Tandy Supercomputing Center, where I served as the center director, later serving as Associate Director for Research Computing Strategy at the University of Oklahoma’s supercomputing center, OSCER.
 
