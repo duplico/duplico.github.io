@@ -1,3 +1,7 @@
+---
+title: Projects
+---
+Here's some stuff I've worked on.
 
 # Electronic badges (badgelife)
 
