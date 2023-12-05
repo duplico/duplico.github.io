@@ -1,6 +1,8 @@
-# George Louthan
+---
+title: My custom title
+---
 
-## About me
+# About me
 My name is George Louthan; I’m a maker, hacker, computer geek, and IT ops enthusiast. I currently lead an awesome team of cloud security engineers at AppDynamics, part of Cisco. Previously I worked in high performance computing, helping found Tulsa's (sadly now-defunct) Tandy Supercomputing Center, where I served as the center director, later serving as Associate Director for Research Computing Strategy at the University of Oklahoma’s supercomputing center, OSCER.
 
 Since 2017 I’ve co-led the Black Team for the Southwest Regional Collegiate Cyber Defense Competition (SW CCDC), where we design, deploy, and support all aspects of IT operations for the competition. I strongly believe that CCDC is the best possible experience a college student can get to prepare them for a career in IT ops or security.
