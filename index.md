@@ -9,12 +9,8 @@ Since 2017 I’ve co-led the Black Team for the Southwest Regional Collegiate Cy
 
 I also help with Queercon, the LGBT community event at DEF CON, where I work on Queercon’s electronic badges as the lead coder and logistics/sourcing person. In the DEF CON electronic badge community, I’m known as the guy who gets added on Facebook by Chinese vendors’ sales reps.
 
-I hold an MS in computer science from the University of Tulsa’s Institute for Information Security. My academic research interests have touched information security, network security, natural user interfaces, and formal methods.
-
-I’ve built a network monitor, a touch screen coffee table, and two different kegerators. I’ve worked on projects for vulnerability analysis, evading government Internet censorship (PDF), and recommending where to eat lunch (It didn’t work out). I occasionally design functional parts for 3D printing (See my Thingiverse profile).
-
 In grad school I moonlit hosting karaoke at an arts bar. These days I moonlight writing software for embedded electronics. One of those involves late nights, confused wailing, and no pay. The other, of course, is karaoke.
 
 In 2014 I was honored by the Tulsa Business and Legal News as one of their “Tulsa 40” young local leaders. In 2017 I had the awesome experience of giving a TEDx talk on supercomputing, and in 2011 I had a lot of fun giving a similar talk (at an Ignite event) about security, called “How your computer can ruin your life and literally kill you dead.”
 
-I serve on the Board of Directors for Tulsa's Friends of Starlight Concerts, which presents a free ourdoor summer concert series by one of the few remaining professional concert bands in the United States. I'm also serve on the advisory board of the University of Tulsa's Tandy School of Computer Science.
+I serve on the Board of Directors for Tulsa's Friends of Starlight Concerts, which presents a free ourdoor summer concert series by one of the few remaining professional concert bands in the United States. I also serve on the advisory board for the Tandy School of Computer Science at my _alma mater_, the University of Tulsa.
